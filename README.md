@@ -1,2 +1,2 @@
 # dyndns-updater
-Bash script to update a DynDNS domain.
+Bash script to update DynDNS domains.
